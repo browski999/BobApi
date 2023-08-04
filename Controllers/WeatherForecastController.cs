@@ -8,7 +8,7 @@ namespace BobApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Blazing"
+        "Freezing", "Blazing"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
