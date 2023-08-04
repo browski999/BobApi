@@ -8,7 +8,7 @@ namespace BobApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Blazing"
+        "Freezing", "Blazing", "HOT"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
